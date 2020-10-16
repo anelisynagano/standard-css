@@ -1,6 +1,5 @@
 import React from 'react';
 // import the CSS file here to see it working!
-import './App.css';
 
 
 function App() {
